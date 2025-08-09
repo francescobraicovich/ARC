@@ -1,6 +1,9 @@
 # Solving ARC with Reinforcement Learning
 ### A novel approach for sequential solutions
 
+![Paper preview](preview.png)
+
+[View the full PDF →](Solving ARC with Deep Reinforcement Learning.pdf)
 
 ## Overview
 This repository offers a reinforcement learning framework designed to tackle tasks from the Abstraction and Reasoning Corpus (ARC). It includes a Domain-Specific Language (DSL) for solving ARC problems sequentially and a custom RL environment. The implemented model is a Wolpertinger Actor-Critic, featuring a choice of feature extractors—either LPN or CNN, both of which are provided.
@@ -29,4 +32,5 @@ This repository offers a reinforcement learning framework designed to tackle tas
 
 ## License
 Distributed under the MIT License.
+
 
